@@ -1,0 +1,22 @@
+{
+  "name": "visage",
+  "version": "0.0.1",
+  "description": "webrtc groupchat",
+  "main": "lib/index.js",
+  "author": "matt krick <matt.krick@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node lib/server.js"
+  },
+  "dependencies": {
+    "shortid": "^2.2.14",
+    "uWebSockets.js": "uNetworking/uWebSockets.js#v15.5.0"
+  },
+  "devDependencies": {
+    "@mattkrick/fast-rtc-peer": "^0.1.0",
+    "@mattkrick/fast-rtc-swarm": "^0.1.1",
+    "@types/node": "^11.10.4",
+    "@types/shortid": "^0.0.29",
+    "typescript": "^3.3.3333"
+  }
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"handlePubKickOut.js","sourceRoot":"","sources":["../src/handlePubKickOut.ts"],"names":[],"mappings":";;AAOA,MAAM,gBAAgB,GAAG,CAAC,EAAc,EAAE,OAA0B,EAAE,EAAE;IACtE,IAAI,EAAE,CAAC,OAAO,CAAC,SAAS,KAAK,OAAO,CAAC,SAAS,EAAE;QAC9C,EAAE,CAAC,GAAG,CAAC,IAAI,EAAE,cAAc,CAAC,CAAA;KAC7B;AACH,CAAC,CAAA;AAED,kBAAe,gBAAgB,CAAA"}

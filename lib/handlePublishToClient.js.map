@@ -1,0 +1,1 @@
+{"version":3,"file":"handlePublishToClient.js","sourceRoot":"","sources":["../src/handlePublishToClient.ts"],"names":[],"mappings":";;AAOA,MAAM,qBAAqB,GAAG,CAAC,EAAc,EAAE,OAA+B,EAAE,EAAE;IAChF,EAAE,CAAC,IAAI,CAAC,IAAI,CAAC,SAAS,CAAC,OAAO,CAAC,EAAE,KAAK,EAAE,KAAK,CAAC,CAAA;AAChD,CAAC,CAAA;AAED,kBAAe,qBAAqB,CAAA"}
